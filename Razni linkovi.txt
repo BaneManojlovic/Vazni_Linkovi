@@ -1,5 +1,9 @@
 
+Android Studio 2.3.3 Tutorijal
 
+https://www.youtube.com/watch?v=XEkStm460C0&list=PLC2ckqpdruK057uFopVaCxYTnKnXxLHhB
+
+************************************************************************************************************
 Dobri clanci o testiranju softvera:
 
 https://stackify.com/software-testing-tips/
