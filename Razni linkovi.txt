@@ -1,5 +1,15 @@
+Poslovi za Python Developera ... ili praksa:
 
+https://scopicsoftware.recruiterbox.com/jobs/fk0fmdz
+
+https://scopicsoftware.com/
+
+https://www.dropbox.com/s/fxlbin0i9z5189h/Py.pdf?dl=0
+
+***********************************************************************************************************
 Android Studio 2.3.3 Tutorijal
+
+Za ovaj Android Studio nauci da koristis i esspreso alat za testiranje!!!
 
 https://www.youtube.com/watch?v=XEkStm460C0&list=PLC2ckqpdruK057uFopVaCxYTnKnXxLHhB
 
