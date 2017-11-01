@@ -1,3 +1,10 @@
+***********************************************************************************************************
+JAVA kurs Wasington univerzitet (odlicni materijali - predji ovo obavezno!!!)
+
+https://courses.cs.washington.edu/courses/cse142/17au/
+
+
+************************************************************************************************************
 Poslovi za Python Developera ... ili praksa:
 
 https://scopicsoftware.recruiterbox.com/jobs/fk0fmdz
