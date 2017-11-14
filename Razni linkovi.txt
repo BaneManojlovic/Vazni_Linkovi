@@ -1,4 +1,12 @@
 ***********************************************************************************************************
+Udemy kurs za testiranje:
+
+https://www.udemy.com/mobile-automation-using-appiumselenium-3/
+
+Bilo bi super ako bih mogao da ga zavrsim on-line, naravno.
+Na Udemy-ju ima mnogo dobrih kurseva i treba ih imati u vidu kada se uci. Mogao bih Javu i Python ovde preci.
+
+***********************************************************************************************************
 JAVA kurs Wasington univerzitet (odlicni materijali - predji ovo obavezno!!!)
 
 https://courses.cs.washington.edu/courses/cse142/17au/
