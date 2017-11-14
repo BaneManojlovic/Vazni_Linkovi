@@ -6,6 +6,10 @@ https://www.udemy.com/mobile-automation-using-appiumselenium-3/
 Bilo bi super ako bih mogao da ga zavrsim on-line, naravno.
 Na Udemy-ju ima mnogo dobrih kurseva i treba ih imati u vidu kada se uci. Mogao bih Javu i Python ovde preci.
 
+Udemy kurs za Python:
+
+https://www.udemy.com/complete-python-bootcamp/
+
 ***********************************************************************************************************
 JAVA kurs Wasington univerzitet (odlicni materijali - predji ovo obavezno!!!)
 
