@@ -1,4 +1,11 @@
 ***********************************************************************************************************
+Za Javu dobar sajt sa materijalima za ucenje:
+
+http://digis.edu.rs/mod/forum/view.php?id=2436
+
+
+
+***********************************************************************************************************
 Udemy kurs za testiranje:
 
 https://www.udemy.com/mobile-automation-using-appiumselenium-3/
