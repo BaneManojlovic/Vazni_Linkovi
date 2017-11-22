@@ -1,4 +1,11 @@
 ***********************************************************************************************************
+Za testiranje, pomocu alata Monkey Talk:
+
+http://www.perfomatix.com/appdevelopmentblogs/mobile-app-automation-testing/
+
+
+
+***********************************************************************************************************
 Za Javu dobar sajt sa materijalima za ucenje:
 
 http://digis.edu.rs/mod/forum/view.php?id=2436
