@@ -1,4 +1,23 @@
 ***********************************************************************************************************
+Tutorijali od Krleta .... nauci ih obavezno!!!
+Uci po ovom redosledu:
+1. https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests.html
+2. https://developer.android.com/training/testing/unit-testing/local-unit-tests.html
+3. https://www.youtube.com/watch?v=DJDBl0vURD4
+4. https://www.youtube.com/watch?v=Rl7g0duuDkU
+5. https://www.youtube.com/watch?v=zUa58xoylEI
+
+
+***********************************************************************************************************
+QA Automated ... tutorijali od Anuja Bhatt iz Indije ... oni su dobri ... nauci ih
+
+https://www.patreon.com/QAAutomated
+
+https://www.youtube.com/channel/UCjYfNeA94isOHEYQqJNggqw/about
+
+
+
+***********************************************************************************************************
 Za testiranje, pomocu alata Monkey Talk:
 
 http://www.perfomatix.com/appdevelopmentblogs/mobile-app-automation-testing/
