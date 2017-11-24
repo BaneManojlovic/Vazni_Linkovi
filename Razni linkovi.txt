@@ -1,4 +1,19 @@
 ***********************************************************************************************************
+Za testiranje pomocu Espresso Test recorder-a:
+
+https://developer.android.com/studio/test/espresso-test-recorder.html
+
+
+***********************************************************************************************************
+Za testiranje pomocu Monkey Runner-a ... 
+
+https://developer.android.com/studio/test/monkeyrunner/index.html
+
+http://androidtesting.blogspot.rs/2012/04/monkeyrunner-tutorial-running-tests-on.html
+
+https://chanakaudaya.wordpress.com/2012/03/31/android-testing-with-monkeyrunner-a-monkeyrunner-tutorial/
+
+***********************************************************************************************************
 Tutorijali od Krleta .... nauci ih obavezno!!!
 Uci po ovom redosledu:
 1. https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests.html
