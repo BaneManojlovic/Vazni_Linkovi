@@ -13,6 +13,8 @@ http://androidtesting.blogspot.rs/2012/04/monkeyrunner-tutorial-running-tests-on
 
 https://chanakaudaya.wordpress.com/2012/03/31/android-testing-with-monkeyrunner-a-monkeyrunner-tutorial/
 
+https://www.youtube.com/watch?v=83DV74TwOiY
+
 ***********************************************************************************************************
 Tutorijali od Krleta .... nauci ih obavezno!!!
 Uci po ovom redosledu:
