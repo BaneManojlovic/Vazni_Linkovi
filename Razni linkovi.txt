@@ -1,4 +1,10 @@
 ***********************************************************************************************************
+Za Razvoj Android aplikacija, neke novije teme o kojima cu razmišljati kada budem naučio da pravim Android 
+aplikacije u Android Studiu. Mozda nakon sto položim taj predmet na Metropolitanu.
+
+http://www.oodlestechnologies.com/blog/tagged/android
+
+***********************************************************************************************************
 Za testiranje pomocu Espresso Test recorder-a:
 
 https://developer.android.com/studio/test/espresso-test-recorder.html
