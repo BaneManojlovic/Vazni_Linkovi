@@ -1,25 +1,7 @@
 ***********************************************************************************************************
-Laptopovi seki:
+On-line testerski poslovi:
 
-Gigatron:
-
-https://www.gigatron.rs/laptop_racunari/dell_vostro_3568__not11372-124160
-
-https://www.gigatron.rs/laptop_racunari/dell_inspiron_15_5567__not10843-101313
-
-https://www.gigatron.rs/laptop_racunari/dell_inspiron_15_5567__not11315-116025
-
-Tehnomanija:
-
-https://www.tehnomanija.rs/laptopovi/dell-laptop-not10843.html
-
-https://www.tehnomanija.rs/laptopovi/dell-laptop-not11312.html
-
-https://www.tehnomanija.rs/laptopovi/dell-laptop-15-3567--not10707.html
-
-https://www.tehnomanija.rs/laptopovi/dell-laptop-not11373.html    <- Ovaj mi se najvise svidja i najbolji mu je odnos performanse/cena!
-
-https://www.tehnomanija.rs/laptopovi/dell-laptop-not10920.html    <- Ovaj je dosta povoljan a malo je bolji od mog.
+https://www.youtube.com/watch?v=9nOfPSXKfqw
 
 ***********************************************************************************************************
 Za Razvoj Android aplikacija, neke novije teme o kojima cu razmišljati kada budem naučio da pravim Android 
