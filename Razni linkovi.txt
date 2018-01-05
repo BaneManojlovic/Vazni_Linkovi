@@ -1,9 +1,17 @@
 ***********************************************************************************************************
 Za posao testera, dobro je imati sledecee>
 
-Poznavanje rada sa:  http://robotframework.org/
+Poznavanje rada sa Robot frameworkom. Ovo su tutorijali za njega:
 
-Posedovati sertifikat: https://www.istqb.org/
+http://robotframework.org/
+
+http://www.robotframeworktutorial.com/
+
+https://www.youtube.com/watch?v=LhUre0hu8I8
+
+Posedovati sertifikat:
+
+https://www.istqb.org/
 
 
 
