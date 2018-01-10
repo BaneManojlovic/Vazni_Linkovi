@@ -1,4 +1,11 @@
 ***********************************************************************************************************
+Za majnovanje:
+
+https://cex.io/
+
+
+
+***********************************************************************************************************
 Za posao testera, dobro je imati sledecee>
 
 Poznavanje rada sa Robot frameworkom. Ovo su tutorijali za njega:
