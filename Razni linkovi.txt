@@ -1,4 +1,9 @@
 ***********************************************************************************************************
+Dobar sajt za ucenje Jave i Pythona
+
+https://www.geeksforgeeks.org/program-find-sum-elements-given-array/
+
+***********************************************************************************************************
 Prodavnice u Budimpesti u kojima ima kartica:
 
 http://oaziscomputer.hu/termek/4859/asus-ROG-STRIX-RX560-O4G-GAMING
