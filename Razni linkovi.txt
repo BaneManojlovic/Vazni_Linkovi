@@ -1,4 +1,11 @@
 **********************************************************************************************************
+Ovde sam napravio nalog da bih mogao da trejdujem Bytecoin-e kojie napravim preko MinerGate-a:
+
+https://hitbtc.com/account
+
+https://minergate.com/internal
+
+**********************************************************************************************************
 Kako napraviti butabilan DVD od iSO fajla:
 
 https://www.youtube.com/watch?v=4zpq3ZH9xas
