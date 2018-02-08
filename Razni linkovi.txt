@@ -1,4 +1,10 @@
 **********************************************************************************************************
+Udemy kurs za Javu koji sam krenuo besplatno:
+
+https://www.udemy.com/java-tutorial/learn/v4/overview
+
+
+**********************************************************************************************************
 Dobar podsetnik za Javu:
 
 https://www.geeksforgeeks.org/java/
