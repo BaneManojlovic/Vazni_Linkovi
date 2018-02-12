@@ -1,4 +1,14 @@
 **********************************************************************************************************
+O Blockchain tehnologijama:
+
+http://ivicadj.com/2016/11/sta-je-blockchain-i-kako-radi/
+
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+https://github.com/dvf/blockchain
+
+
+**********************************************************************************************************
 Udemy kurs za Javu koji sam krenuo besplatno:
 
 https://www.udemy.com/java-tutorial/learn/v4/overview
