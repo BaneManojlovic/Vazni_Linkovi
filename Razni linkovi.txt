@@ -1,4 +1,11 @@
 **********************************************************************************************************
+GUI (radno okruzenje) za rad sa GIT-om:
+
+https://www.sourcetreeapp.com/
+
+Skini i instaliraj ga kod sebe!!!
+
+**********************************************************************************************************
 Alati za upravljanje procesom testiranja (Menadzerski alati):
 
 https://www.youtube.com/watch?v=eHvva93A2Jc
