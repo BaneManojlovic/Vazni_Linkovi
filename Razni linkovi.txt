@@ -1,4 +1,18 @@
 **********************************************************************************************************
+Uvod u Bitkoin i kriptovalute sa Metroplitana:
+
+https://www.youtube.com/watch?v=jjoo2ufh_04
+https://www.youtube.com/watch?v=K7atYhBl68k
+https://www.youtube.com/watch?v=WssD5II4p6A
+https://youtu.be/fh9HV8vGcvY
+https://www.youtube.com/watch?v=JnBcyenp-48
+https://www.youtube.com/watch?v=LBZRMVpTNqY
+https://www.youtube.com/watch?v=VQMY2s_V52I
+https://www.youtube.com/watch?v=_8EUkJNUOak
+https://www.youtube.com/watch?v=qY4fxFPVFGM
+
+
+**********************************************************************************************************
 GUI (radno okruzenje) za rad sa GIT-om:
 
 https://www.sourcetreeapp.com/
