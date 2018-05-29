@@ -1,4 +1,12 @@
 ********************************************************************************************************
+Za PixelPerfect testing:
+
+https://facebook.github.io/screenshot-tests-for-android/
+
+
+
+
+********************************************************************************************************
 Za ISTQB ispite vazni linkovi i materijali:
 
 https://www.seetb.org/index.php?page=calendar-serbia
