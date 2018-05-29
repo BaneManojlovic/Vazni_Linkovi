@@ -3,8 +3,9 @@ Za PixelPerfect testing:
 
 https://facebook.github.io/screenshot-tests-for-android/
 
+https://arctouch.com/blog/top-ui-design-tool-zeplin/
 
-
+https://www.softwaretestinghelp.com/best-mobile-testing-tools/
 
 ********************************************************************************************************
 Za ISTQB ispite vazni linkovi i materijali:
