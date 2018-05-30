@@ -1,6 +1,8 @@
 ********************************************************************************************************
 Za PixelPerfect testing:
 
+https://www.youtube.com/watch?v=C45bMZGdN7Y
+
 https://facebook.github.io/screenshot-tests-for-android/
 
 https://arctouch.com/blog/top-ui-design-tool-zeplin/
