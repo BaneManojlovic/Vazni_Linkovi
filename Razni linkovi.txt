@@ -28,15 +28,6 @@ https://academy.vojvodinaictcluster.org/sertifikati/istqb/istqb-cenovnik/
 
 https://blog.codecentric.de/en/2013/10/automated-security-testing-web-applications-using-owasp-zed-attack-proxy/
 
-
-********************************************************************************************************
-Idi na ovu radionicu:
-
-https://www.meetup.com/makers-ns/events/250880841/
-
-31 Maj 2018
-
-
 **********************************************************************************************************
 Skini Unity za dizajniranje Layout-a za aplikacije:
 
