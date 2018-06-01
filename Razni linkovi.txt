@@ -1,4 +1,12 @@
 ********************************************************************************************************
+ZA ucenje ZAP softvera:
+
+https://www.youtube.com/playlist?list=PLEBitBW-Hlsv8cEIUntAO8st2UGhmrjUB
+
+https://github.com/zaproxy/zaproxy/wiki/Screenshots
+
+
+********************************************************************************************************
 Za PixelPerfect testing:
 
 https://www.youtube.com/watch?v=C45bMZGdN7Y
