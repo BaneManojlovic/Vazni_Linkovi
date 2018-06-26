@@ -1,4 +1,20 @@
 ********************************************************************************************************
+Za projekat:
+
+https://stackoverflow.com/questions/29982657/how-to-implement-jax-rs-restful-service-in-jsf-framework
+
+https://www.youtube.com/watch?v=2xAJcA8adDE
+
+https://www.youtube.com/watch?v=HISV7eagogI
+
+https://www.youtube.com/channel/UCuwgIDU5ONQGWXCZQdvS6Hg
+
+https://www.youtube.com/watch?v=dmMdLW92hBA
+
+
+
+
+********************************************************************************************************
 Tutorijali za Login formu:
 
 https://www.youtube.com/watch?v=NfRuxl7ivWQ
