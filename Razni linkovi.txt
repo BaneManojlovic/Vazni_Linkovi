@@ -1,4 +1,11 @@
 *******************************************************************************************************
+Socket.io za kreiranje chat-a na mobilni aplikacijama:
+
+https://socket.io/
+
+https://github.com/socketio/chat-example
+
+*******************************************************************************************************
 Firma iz Ukrajne koja je najbolji primer testing kompanije:
 
 https://strongqa.com/home
