@@ -1,4 +1,12 @@
 *******************************************************************************************************
+Softver za skrejpovanje podataka sa internet sajta i za testiranje sajtova:
+
+https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md
+
+
+
+
+*******************************************************************************************************
 Socket.io za kreiranje chat-a na mobilni aplikacijama:
 
 https://socket.io/
