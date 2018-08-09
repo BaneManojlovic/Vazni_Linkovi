@@ -1,4 +1,14 @@
 *******************************************************************************************************
+Poslovi za QA remote:
+
+https://remoteok.io/remote-quality-assurance-jobs
+
+https://www.utest.com/
+
+
+
+
+*******************************************************************************************************
 Softver za skrejpovanje podataka sa internet sajta i za testiranje sajtova:
 
 https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md
