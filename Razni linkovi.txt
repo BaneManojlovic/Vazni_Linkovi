@@ -1,4 +1,15 @@
 *******************************************************************************************************
+Materijali za ListView:
+
+https://www.codebrainer.com/blogs/how_to_display_data_with_recyclerview
+
+https://www.youtube.com/watch?v=PamhELVWYY0
+
+https://www.youtube.com/watch?v=9ZCK5BOU6wk&index=29&list=PLshdtb5UWjSrOJfpFOE-u55s3SnY2EO9v
+
+https://www.youtube.com/watch?v=17NbUcEts9c&index=2&list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4
+
+*******************************************************************************************************
 Poslovi za QA remote:
 
 https://remoteok.io/remote-quality-assurance-jobs
