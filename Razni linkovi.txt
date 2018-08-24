@@ -1,4 +1,9 @@
 ******************************************************************************************************
+Prati ovu firmu i pokusaj zaposliti se u njoj jednog dana:
+
+https://stackoverflow.com/jobs/169272/software-development-engineer-in-test-mobile-m-mytaxi-intelligent-apps-gmbh?so=i&pg=1&offset=11
+
+******************************************************************************************************
 Proucavaj sledece sajtove:
 
 https://teachyourselfcs.com/
@@ -9,19 +14,10 @@ https://leetcode.com/explore/
 
 https://www.codewars.com/
 
-
-
-
-
-
 ******************************************************************************************************
 Konkurisi:
 
 https://aluperf.referrals.selectminds.com/jobs/working-student-trainee-r-d-engineer-2845
-
-
-
-
 
 *******************************************************************************************************
 Materijali za ListView:
@@ -41,16 +37,10 @@ https://remoteok.io/remote-quality-assurance-jobs
 
 https://www.utest.com/
 
-
-
-
 *******************************************************************************************************
 Softver za skrejpovanje podataka sa internet sajta i za testiranje sajtova:
 
 https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md
-
-
-
 
 *******************************************************************************************************
 Socket.io za kreiranje chat-a na mobilni aplikacijama:
@@ -64,14 +54,10 @@ Firma iz Ukrajne koja je najbolji primer testing kompanije:
 
 https://strongqa.com/home
 
-
-
 ********************************************************************************************************
 Procitaj:
 
 https://blog.croz.net/blog/testiranje-mobilnih-aplikacija/
-
-
 
 ********************************************************************************************************
 Linkovi za posao:
@@ -92,8 +78,6 @@ https://poslovi.infostud.com/posao/Software-qualityassurance-Engineer/CCBill-SRB
 Za On-line posao NBD liga, od Sase kolege sa posla:
 
 https://wsc-sports.com/
-
-
 
 ********************************************************************************************************
 Za projekat:
