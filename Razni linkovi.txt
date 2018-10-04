@@ -1,3 +1,6 @@
+https://docs.microsoft.com/en-us/xamarin/android/user-interface/controls/card-view
+
+
 ******************************************************************************************************
 Nauci ovo da koristis, treba Miroslavu:
 
