@@ -1,3 +1,12 @@
+******************************************************************************************************
+Kada budes mogao predji ova dva kursa iz Androida:
+1)Besplatan:
+https://in.udacity.com/course/android-basics-user-interface--ud834-india
+
+2)Placa se:
+https://www.udemy.com/the-complete-android-oreo-developer-course/
+
+******************************************************************************************************
 https://docs.microsoft.com/en-us/xamarin/android/user-interface/controls/card-view
 
 
