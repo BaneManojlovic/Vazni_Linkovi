@@ -1,4 +1,13 @@
 ******************************************************************************************************
+Tutorijali za Flutter i Dart:
+
+https://www.youtube.com/watch?v=ulg2dpPkulw&list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi
+
+https://flutter.io/
+
+https://www.udemy.com/user/bryan-cairns/
+
+******************************************************************************************************
 Kada budes mogao predji ova dva kursa iz Androida:
 1)Besplatan:
 https://in.udacity.com/course/android-basics-user-interface--ud834-india
