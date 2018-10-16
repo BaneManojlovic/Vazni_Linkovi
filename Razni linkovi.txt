@@ -1,3 +1,10 @@
+*****************************************************************************************************
+Generator za Terms & Conditiones i Privacy Policy
+
+
+https://app-privacy-policy-generator.firebaseapp.com/
+
+
 ******************************************************************************************************
 Tutorijali za Flutter i Dart:
 
