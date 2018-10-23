@@ -1,3 +1,6 @@
+http://138.201.32.208:9890/swagger-ui.html#/driver45controller/chooseTruckUsingPOST
+
+
 *****************************************************************************************************
 Vidi ovaj oglas za posao:
 
