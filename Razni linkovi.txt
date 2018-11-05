@@ -1,4 +1,11 @@
 ******************************************************************************************************
+Android Staggerd RecyclerView:
+
+https://techmeisterblog.wordpress.com/2015/02/11/staggered-grid-layout-in-android/
+
+
+
+******************************************************************************************************
 Pogledaj ovaj telefon, mozda nije lose da ga kupis:
 
 http://frame.goglasi.com/frame?eid=171637407&q=nexus%205
