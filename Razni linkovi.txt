@@ -3,7 +3,9 @@ Android Staggerd RecyclerView:
 
 https://techmeisterblog.wordpress.com/2015/02/11/staggered-grid-layout-in-android/
 
+https://www.youtube.com/watch?v=Lq3Wvcy1kHo
 
+https://www.google.rs/search?q=staggered+recyclerview+android&rlz=1C1CHBF_enRS763RS763&oq=staggered+recyclerview&aqs=chrome.1.69i57j0l5.9775j0j8&sourceid=chrome&ie=UTF-8
 
 ******************************************************************************************************
 Pogledaj ovaj telefon, mozda nije lose da ga kupis:
