@@ -1,4 +1,13 @@
 ******************************************************************************************************
+Ovde ponovi JMeter tutorijal, jer ce ti trebati za testiranje REST servisa na InDiMa projektu:
+
+http://www.helpingtesters.com/free-jmeter-course/
+
+
+
+
+
+******************************************************************************************************
 Android Staggerd RecyclerView:
 
 https://techmeisterblog.wordpress.com/2015/02/11/staggered-grid-layout-in-android/
