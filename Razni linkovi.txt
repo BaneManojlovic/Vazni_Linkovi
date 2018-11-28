@@ -1,3 +1,11 @@
+*****************************************************************************************************
+Sajtovi i kursevi za ucenje iOS programiranja:
+
+https://intellipaat.com/tutorial/ios-tutorial/
+
+https://www.itfusion.rs/kurs-ios-programiranja-novi-sad/
+
+
 ******************************************************************************************************
 Ovde ponovi JMeter tutorijal, jer ce ti trebati za testiranje REST servisa na InDiMa projektu:
 
